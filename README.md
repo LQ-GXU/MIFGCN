@@ -10,17 +10,12 @@ MIFGCN is evaluated on four real-world traffic datasets collected by the Caltran
 Citation
 If you find this work useful, please consider citing the original paper:
 
-@article{Li2024MIFGCN,
-
+@article{li2024multi,
   title={Multi-Source Information Fusion Graph Convolution Network for traffic flow prediction},
-  
-  author={Qin Li and Pai Xu and Deqiang He and Yuankai Wu and Huachun Tan and Xuan Yang},
-  
-  journal={Expert Systems With Applications},
-  
+  author={Li, Qin and Xu, Pai and He, Deqiang and Wu, Yuankai and Tan, Huachun and Yang, Xuan},
+  journal={Expert Systems with Applications},
   volume={252},
-  
   pages={124288},
-  
-  year={2024}
+  year={2024},
+  publisher={Elsevier}
 }
