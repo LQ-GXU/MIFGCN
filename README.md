@@ -6,6 +6,9 @@ MIFGCN introduces a dynamic graph module that captures evolving spatial-temporal
 
 Datasets
 MIFGCN is evaluated on four real-world traffic datasets collected by the Caltrans Performance Measurement System (PeMS), including PeMS03, PeMS04, PeMS07, and PeMS08. These datasets cover various traffic scenarios and include auxiliary data such as traffic speed and weather conditions.
+The weather data for this article is sourced from the following websites and has been crawled and preprocessed accordingly. The website is as follows: http://tianqi.2345.com/Pc/GetHistory?areaInfo [reaId]=349727&reaInfo [reaType]=1&date [year]=2021&date [month]=2. AreaId can be found in the following two files. http://tianqi.2345.com/tqpcimg/tianqiimg/theme4/js/citySelectData2.js
+http://tianqi.2345.com/tqpcimg/tianqiimg/theme4/js/interCitySelectData2.js
+For Chinese Mainland data, please look for the first file, and look for the second file in other regions. The areaType parameter is ignored. Please adjust the year and month by yourself
 
 Citation
 If you find this work useful, please consider citing the original paper:
